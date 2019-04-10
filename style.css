@@ -87,6 +87,7 @@ text-align: center;
 margin-top: 350;
 margin-left: 115;
 position: absolute;
+padding: 0;
   
 }
 #boneplus:active {
@@ -105,7 +106,7 @@ text-align: center;
 margin-top: 470;
 margin-left: 115;
 position: absolute;
-  
+  padding: 0;
 }
 #boneminus:active {
   color: #345e98;
@@ -122,6 +123,7 @@ text-align: center;
 margin-top: 350;
 margin-left: 1390;
 position: absolute;
+padding: 0;
   
 }
 #btwoplus:active {
@@ -140,6 +142,7 @@ text-align: center;
 margin-top: 470;
 margin-left: 1390;
 position: absolute;
+padding: 0;
   
 }
 #btwominus:active {
