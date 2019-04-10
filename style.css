@@ -1,0 +1,149 @@
+* {
+  font-family: "Arial Black", bold, sans-serif;
+
+}
+
+body {
+  background-color: #10151c;
+  margin: 0;
+  margin-top: 40;
+}
+img {
+  width: 900;
+  height: 650;
+  margin-left: 355;
+  position: absolute;
+}
+#kone {
+  margin-left: 25;
+  margin-top: 70;
+  width: 300;
+  height: 40;
+  color: #2d5284;
+  background-color: #10151c;
+  border: 0;
+  outline: none;
+    text-align: center;
+    font-size: 25px;
+  position: absolute;
+}
+#ktwo {
+  margin-left: 1275;
+  margin-top: 70;
+  width: 300;
+  height: 40;
+  color: #2d5284;
+  background-color: #10151c;
+  border: 0;
+  outline: none;
+    text-align: center;
+    font-size: 25px;
+  position: absolute;
+  
+}
+#two {
+  margin-left: 1360;
+  margin-top: 140;
+  width: 150;
+  height: 170;
+  color: #2a7046;
+  background-color: #10151c;
+  border: 0;
+  outline: none;
+    text-align: center;
+    font-size: 70px;
+  position: absolute;
+
+  
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+#one {
+  margin-left: 90;
+  margin-top: 140;
+  width: 150;
+  height: 170;
+  color: #993939;
+
+  background-color: #10151c;
+  border: 0;
+  outline: none;
+    text-align: center;
+    font-size: 70px;
+  position: absolute;
+}
+
+#boneplus {
+  width: 100;
+  height: 50;
+  outline: none;
+  border: 0;
+  background-color: #10151c;
+  color: #2d5284;
+font-size: 100px;
+text-align: center;
+margin-top: 350;
+margin-left: 115;
+position: absolute;
+  
+}
+#boneplus:active {
+  color: #345e98;
+}
+
+#boneminus {
+  width: 100;
+  height: 5;
+  outline: none;
+  border: 0;
+  background-color: #10151c;
+  color: #2d5284;
+font-size: 100px;
+text-align: center;
+margin-top: 470;
+margin-left: 115;
+position: absolute;
+  
+}
+#boneminus:active {
+  color: #345e98;
+}
+#btwoplus {
+  width: 100;
+  height: 50;
+  outline: none;
+  border: 0;
+  background-color: #10151c;
+  color: #2d5284;
+font-size: 100px;
+text-align: center;
+margin-top: 350;
+margin-left: 1390;
+position: absolute;
+  
+}
+#btwoplus:active {
+  color: #345e98;
+}
+
+#btwominus {
+  width: 100;
+  height: 5;
+  outline: none;
+  border: 0;
+  background-color: #10151c;
+  color: #2d5284;
+font-size: 100px;
+text-align: center;
+margin-top: 470;
+margin-left: 1390;
+position: absolute;
+  
+}
+#btwominus:active {
+  color: #345e98;
+}
+
+
